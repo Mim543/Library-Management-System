@@ -476,7 +476,7 @@ Use:
 
 # 🤝 Contributors
 
-### Md Mohseen Molla
+### Mim Akter
 
 Department of Artificial Intelligence and Data Science
 
